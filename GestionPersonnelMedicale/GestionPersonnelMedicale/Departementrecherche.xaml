@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="GestionPersonnelMedicale.Departementrecherche"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GestionPersonnelMedicale"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="900">
+
+    <Grid>
+
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Departement" Width="150" Grid.Column="0" VerticalAlignment="Center" FontSize="16" />
+            <TextBox x:Name="txtSearch" Grid.Column="1" Margin="5,0,0,0" Text="Entrez le nom du departement" VerticalAlignment="Center" FontSize="16"  />
+            <Button Content="Rechercher" Grid.Column="2" Margin="5,0,0,0" Click="ButtonSearch_Click" VerticalAlignment="Center" FontSize="16" x:Name="btn7" />
+        </Grid>
+
+        <DataGrid ItemsSource="{Binding SearchResults}" AutoGenerateColumns="True" Margin="10,10,10,138" Grid.Row="1" />
+        <Grid Grid.Row="2">
+            <Button Content="Retourer"  Margin="249,10,0,10" Click="ButtonRetour_Click"  HorizontalAlignment="Left" Width="79"    x:Name="btn6" RenderTransformOrigin="1.491,0.617"/>
+            <Button Content="Francais " Width="100" Height="30" Margin="548,10,0,10" Click="SetFrench_Click" x:Name="btn5" HorizontalAlignment="Left"/>
+            <Button Content="Anglais" Width="100" Height="30" Click="SetEnglish_Click" x:Name="btn4" Margin="10" HorizontalAlignment="Center" Grid.Row="1"/>
+        </Grid>
+
+    </Grid>
+
+</UserControl>

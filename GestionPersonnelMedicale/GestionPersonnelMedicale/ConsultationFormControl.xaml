@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="GestionPersonnelMedicale.ConsultationFormControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GestionPersonnelMedicale"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ID de la Consultation -->
+        <Label Content="ID :" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="IDTextBox" Text="{Binding ID, UpdateSourceTrigger=PropertyChanged}" Grid.Row="0" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5" />
+
+        <!-- Patient -->
+        <Label Content="Patient :" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="PatientTextBox" Text="{Binding Patient, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Date de Consultation -->
+        <Label Content="Date :" Grid.Row="2" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <DatePicker x:Name="DatePicker" SelectedDate="{Binding Date}" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Heure de Consultation -->
+        <Label Content="Heure :" Grid.Row="3" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="HeureTextBox" Text="{Binding Heure, UpdateSourceTrigger=PropertyChanged}" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Observations -->
+        <Label Content="Observations :" Grid.Row="4" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="ObservationsTextBox" Text="{Binding Observations, UpdateSourceTrigger=PropertyChanged}" Grid.Row="4" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Boutons pour sauvegarder e retourner -->
+        <StackPanel Orientation="Horizontal" Grid.Row="5" HorizontalAlignment="Left" Margin="63,77,0,179" Grid.Column="1">
+            <Button Content="Sauvegarder" Width="100" Margin="5" Click="SauvegarderClick"  x:Name="btn7"/>
+            <Button Content="Retourner" Width="100" Margin="5" Click="Retourner_Click"  x:Name="btn6"/>
+            <Button Content="Francais " Width="100"  Margin="5" Click="SetFrench_Click" x:Name="btn5" Grid.Row="1"/>
+            <Button Content="Anglais" Width="100"  Click="SetEnglish_Click" x:Name="btn4" Margin="5" Grid.Row="1"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

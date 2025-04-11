@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Gestion-Absences-Retardslogo.png" />
+    <None Remove="Gestion-Absences-Retardslogocapa.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Gestion-Absences-Retardslogo.png" />
+    <Resource Include="Gestion-Absences-Retardslogocapa.png" />
+  </ItemGroup>
+
+</Project>

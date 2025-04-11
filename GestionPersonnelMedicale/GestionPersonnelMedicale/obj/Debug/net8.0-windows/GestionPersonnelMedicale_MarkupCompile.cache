@@ -1,0 +1,20 @@
+﻿GestionPersonnelMedicale
+
+
+winexe
+C#
+.cs
+C:\Users\laura\Documents\GestionPersonnelMedicale21 final\GestionPersonnelMedicale21\GestionPersonnelMedicale\GestionPersonnelMedicale\obj\Debug\net8.0-windows\
+GestionPersonnelMedicale
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\laura\Documents\GestionPersonnelMedicale21 final\GestionPersonnelMedicale21\GestionPersonnelMedicale\GestionPersonnelMedicale\App.xaml
+111891080067
+
+191472793640
+198-352714763
+ConsultationFormControl.xaml;DepartementFormControl.xaml;Departementrecherche.xaml;InfirmiersFormControl1.xaml;MainWindow.xaml;MedecinFormControl.xaml;ModifierConsultation.xaml;ModifierDepartement.xaml;ModifierInfermier.xaml;Modifiermedicin.xaml;Stylesdict.xaml;
+
+False
+

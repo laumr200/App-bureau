@@ -1,0 +1,19 @@
+﻿<Application x:Class="GestionPersonnelMedicale.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GestionPersonnelMedicale"
+             StartupUri="MainWindow.xaml">
+    
+    
+    <!-- Ressources de l'application -->
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <!-- Chemin vers le fichier de stylesfic -->
+                <ResourceDictionary Source="Stylesdict.xaml"/>
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

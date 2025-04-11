@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="GestionPersonnelMedicale.MedecinFormControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="900">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ID du Médecin -->
+        <Label Content="ID :" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="IDTextBox" Text="{Binding ID, UpdateSourceTrigger=PropertyChanged}" Grid.Row="0" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5" />
+
+        <!-- Nom du Médecin -->
+        <Label Content="Nom :" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="NomTextBox" Text="{Binding Nom, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Spécialité du Médecin -->
+        <Label Content="Spécialité :" Grid.Row="2" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="SpecialiteTextBox" Text="{Binding Specialite, UpdateSourceTrigger=PropertyChanged}" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Disponibilité du Médecin -->
+        <Label Content="Disponibilité :" Grid.Row="3" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <CheckBox x:Name="DisponibleCheckBox" IsChecked="{Binding Disponible}" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Contact du Médecin -->
+        <Label Content="Contact :" Grid.Row="4" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="ContactTextBox" Text="{Binding Contact, UpdateSourceTrigger=PropertyChanged}" Grid.Row="4" Grid.Column="1" VerticalAlignment="Top" Margin="10,16,10,0" Grid.RowSpan="2"/>
+
+        <!-- Département du Médecin -->
+        <Label Content="Département ID :" Grid.Row="5" Grid.Column="0" VerticalAlignment="Top" Margin="10,29,10,0" Foreground="White"/>
+        <TextBox x:Name="DepartementIDTextBox" Text="{Binding DepartementID, UpdateSourceTrigger=PropertyChanged}" Grid.Row="5" Grid.Column="1" VerticalAlignment="Top" Margin="10,23,10,0"/>
+
+        <!-- Boutons pour sauvegarder e retornar -->
+        <StackPanel Orientation="Horizontal" Grid.Row="5" HorizontalAlignment="Left" Margin="146,78,0,178" Grid.Column="1" >
+            <Button Content=" Sauvegarder" Width="118" Margin="5" Click="Sauvegarder_Click" Height="40" RenderTransformOrigin="0.5,0.5" x:Name="btn7"/>
+            <Button Content=" Retourner" Width="118" Margin="5" Click="Retourner_Click" Height="40" x:Name="btn6"/>
+            <Button Content="Francais " Width="100"  Margin="5" Click="SetFrench_Click" x:Name="btn5" Grid.Row="1"/>
+            <Button Content="Anglais" Width="100"  Click="SetEnglish_Click" x:Name="btn4" Margin="5" Grid.Row="1"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

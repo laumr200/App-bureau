@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="GestionPersonnelMedicale.DepartementFormControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ID -->
+        <Label Content="ID :" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="IDTextBox" Text="{Binding ID, UpdateSourceTrigger=PropertyChanged}" 
+                 Grid.Row="0" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5" />
+
+        <!-- Nom du Département -->
+        <Label Content="Nom du Département :" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="NomTextBox" Text="{Binding Nom, UpdateSourceTrigger=PropertyChanged}" 
+                 Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+        <!-- Description -->
+        <Label Content="Description :" Grid.Row="2" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="DescriptionTextBox" Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}" 
+                 Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5" AcceptsReturn="True" Height="60" TextWrapping="Wrap"/>
+
+        <!-- Localisation -->
+        <Label Content="Localisation :" Grid.Row="3" Grid.Column="0" VerticalAlignment="Top" Margin="10" Foreground="White"/>
+        <TextBox x:Name="LocalisationTextBox" Text="{Binding Localisation, UpdateSourceTrigger=PropertyChanged}" 
+                 Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" Margin="10,5,10,5"/>
+
+       
+
+        <!-- Boutons pour sauvegarder et retourner -->
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" Margin="70,77,0,189" Width="484">
+            <Button Content="Sauvegarder" Width="100" Margin="5" Click="Sauvegarder_Click" x:Name="btn7"/>
+            <Button Content="Retourner" Width="100" Margin="5" Click="Retourner_Click" x:Name="btn6"/>
+            <Button Content="Francais " Width="100"  Margin="5" Click="SetFrench_Click" x:Name="btn5" Grid.Row="1"/>
+            <Button Content="Anglais" Width="100"  Click="SetEnglish_Click" x:Name="btn4" Margin="5" Grid.Row="1"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>
+

@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\medecinformcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\medecinformcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\medecinformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\medecinformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\modifierconsultation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\modifierconsultation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\modifierdepartement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\modifierdepartement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\modifierinfermier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\modifierinfermier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\departementrecherche.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\departementrecherche.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\departementrecherche.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\departementrecherche.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\departementformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\departementformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\consultations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\consultations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\consultationformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\consultationformcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\stylesdict.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\stylesdict.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\gestion-absences-retardslogocapa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\gestion-absences-retardslogocapa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|c:\\users\\laura\\documents\\mes projets\\gestionpersonnelmedicale21 final\\gestionpersonnelmedicale21\\gestionpersonnelmedicale\\gestionpersonnelmedicale\\gestion-absences-retardslogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AF69731B-5310-4A88-8C4B-5C156DB4BC96}|GestionPersonnelMedicale\\GestionPersonnelMedicale.csproj|solutionrelative:gestionpersonnelmedicale\\gestion-absences-retardslogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedecinFormControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MedecinFormControl.xaml.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\MedecinFormControl.xaml.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MedecinFormControl.xaml.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\MedecinFormControl.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA/wFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:17:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedecinFormControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MedecinFormControl.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\MedecinFormControl.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MedecinFormControl.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\MedecinFormControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:17:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModifierConsultation.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierConsultation.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\ModifierConsultation.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierConsultation.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\ModifierConsultation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:17:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModifierDepartement.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierDepartement.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\ModifierDepartement.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierDepartement.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\ModifierDepartement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:17:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\SearchResult.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\SearchResult.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\SearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:16:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAADwv+4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:16:45.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Departementrecherche.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departementrecherche.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Departementrecherche.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departementrecherche.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Departementrecherche.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:16:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartementFormControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\DepartementFormControl.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\DepartementFormControl.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\DepartementFormControl.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\DepartementFormControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:16:28.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Consultations.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Consultations.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Consultations.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Consultations.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Consultations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:15:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:694752579:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\AssemblyInfo.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:16:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departementrecherche.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departementrecherche.xaml.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Departementrecherche.xaml.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departementrecherche.xaml.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Departementrecherche.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:15:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stylesdict.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Stylesdict.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Stylesdict.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Stylesdict.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Stylesdict.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:15:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departement.cs",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Departement.cs",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Departement.cs",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Departement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:15:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gestion-Absences-Retardslogocapa.png - PNG [800x450, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Gestion-Absences-Retardslogocapa.png",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Gestion-Absences-Retardslogocapa.png",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Gestion-Absences-Retardslogocapa.png - PNG [800x450, 24 bit, PNG]",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Gestion-Absences-Retardslogocapa.png - PNG [800x450, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-08T03:15:19.015Z",
+              "EditorCaption": " - PNG [800x450, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gestion-Absences-Retardslogo.png - PNG [1186x938, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Gestion-Absences-Retardslogo.png",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\Gestion-Absences-Retardslogo.png",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\Gestion-Absences-Retardslogo.png - PNG [1186x938, 32 bit, PNG]",
+              "RelativeToolTip": "GestionPersonnelMedicale\\Gestion-Absences-Retardslogo.png - PNG [1186x938, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-08T03:15:17.031Z",
+              "EditorCaption": " - PNG [1186x938, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModifierInfermier.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierInfermier.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\ModifierInfermier.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ModifierInfermier.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\ModifierInfermier.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:15:07.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\MainWindow.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:13:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultationFormControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ConsultationFormControl.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\ConsultationFormControl.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\ConsultationFormControl.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\ConsultationFormControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:13:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\App.xaml",
+              "RelativeDocumentMoniker": "GestionPersonnelMedicale\\App.xaml",
+              "ToolTip": "C:\\Users\\laura\\Documents\\MES PROJETS\\GestionPersonnelMedicale21 final\\GestionPersonnelMedicale21\\GestionPersonnelMedicale\\GestionPersonnelMedicale\\App.xaml",
+              "RelativeToolTip": "GestionPersonnelMedicale\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:10:30.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
