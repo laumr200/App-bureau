@@ -13,13 +13,13 @@ The application features an intuitive interface with **tabbed navigation (TabCon
 ### 👨‍⚕️ Doctors
 
 - Viewing doctors via a DataGrid  
-- Adding, editing, and deleting doctors  
+- Adding, editing and deleting doctors  
 - Selection via `SelectedItem` linked to a property in the code-behind  
 
 ### 🧑‍⚕️ Nurses
 
 - Displaying the list of nurses  
-- Adding, editing, and deleting nurses  
+- Adding, editing and deleting nurses  
 
 ### 🏢 Departments
 
@@ -30,7 +30,7 @@ The application features an intuitive interface with **tabbed navigation (TabCon
 ### 📋 Consultations
 
 - Viewing consultation history  
-- Adding, editing, and deleting consultations  
+- Adding, editing and deleting consultations  
 - Centralized management of medical records  
 
 ### 🌍 Multilingual Support
