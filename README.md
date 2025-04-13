@@ -2,7 +2,7 @@
 
 ## 🧾 Overview
 
-This is a desktop application developed in **C#** using **WPF (Windows Presentation Foundation)** to manage medical staff within a hospital environment. It provides centralized management of **doctors**, **nurses**, **departments**, and **medical consultations**.
+This is a desktop application developed in **C#** using **WPF (Windows Presentation Foundation)** to manage medical staff within a hospital environment. It provides centralized management of **doctors**, **nurses**, **departments** and **medical consultations**.
 
 The application features an intuitive interface with **tabbed navigation (TabControl)** and **data grids (DataGrid)** to streamline the management of medical staff and consultations. It also includes **multilingual support** and a simplified workflow for hospital users, making it user-friendly and efficient.
 
